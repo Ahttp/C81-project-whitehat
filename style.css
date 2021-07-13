@@ -1,0 +1,22 @@
+.body_backgorund {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/1200px-Olympic_rings_without_rims.svg.png");
+    background-position: center;
+    background-size: cover;
+  }
+  h1
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  
+  #myCanvas
+  {
+  
+      background-color: white; 
+      border-style:ridge;
+  }
+  span
+  {
+      font-size: 20px;
+  }
+  
